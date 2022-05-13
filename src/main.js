@@ -5,7 +5,7 @@ import store from './store'
 import '@/plugins/vant.js'
 import 'amfe-flexible'
 import '@/styles/index.less'
-
+import './utils/dayjs'// 加载dayjs
 Vue.config.productionTip = false
 new Vue({
   router,

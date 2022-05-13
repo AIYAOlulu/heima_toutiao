@@ -11,6 +11,14 @@
     "amfe-flexible": "^2.2.1",
     "axios": "^0.26.1",
     "core-js": "^3.8.3",
+    "cropperjs": "^1.5.12",
+    "dayjs": "^1.11.1",
+    "github-markdown-css": "^5.1.0",
+    "global": "^4.4.0",
+    "json-bigint": "^1.0.0",
+    "lodash": "^4.17.21",
+    "postcss": "^8.4.13",
+    "serve": "^13.0.2",
     "vant": "^2.12.47",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
@@ -33,6 +41,7 @@
     "less": "^4.0.0",
     "less-loader": "^8.0.0",
     "lint-staged": "^11.1.2",
+    "postcss-pxtorem": "^6.0.0",
     "vue-template-compiler": "^2.6.14"
   },
   "gitHooks": {

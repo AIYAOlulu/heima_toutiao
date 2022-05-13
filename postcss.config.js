@@ -5,7 +5,9 @@ module.exports = {
       rootValue ({ file }) {
         return file.indexOf('vant') !== -1 ? 37.5 : 75
       },
-      propList: ['*']
+      propList: ['*'],
+      // 配置不转换的样式,字体不会太小
+      exclude: 'github-markdown'
     }
   }
 }
